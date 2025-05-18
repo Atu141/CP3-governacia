@@ -1,4 +1,4 @@
-# CP3 - Governança
+# CP3 - Governancia
 
 Este repositório contém os arquivos e entregas do **Checkpoint 3** da disciplina **Governança e Melhores Práticas em TI**, ministrada pelo professor **Renato Jardim Parducci**.
 
